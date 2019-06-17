@@ -65,9 +65,9 @@
                   'E8AQDBiCAUMwYAgGDMGAIRiCAUMwYAgGDMGAIRgwBAOGYAgGDMGYvVuAAQD5BwwNjgAKGw'+
                   'AAAABJRU5ErkJggg%3D%3D'
                 ],
-        total:    50,   // anything over a few hundred is gonna crawl
+        total:    30,   // anything over a few hundred is gonna crawl
         boundary: 100,  // avoid the edge of the window
-        fast:     5,    // fastest spark (a lower number is faster)
+        fast:     6,    // fastest spark (a lower number is faster)
         slow:     1,    // slowest spark (a higher number is slower)
         limit:    3600, // stop after this many seconds (one hour)
     }
