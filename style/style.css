@@ -32,26 +32,26 @@ LET ME KNOW IF THIS IS NOT COOL*/
   right: 0;
   bottom: 0;
   left: 0;
-  margin-top:87%;
-  margin: auto;
-  
+  margin-top: 88%;
   width :34px;
   height: 55px;
 }
 .mousey {
+  margin-top: 88%;
   width: 3px;
   padding: 10px 15px;
   height: 35px;
-  border: 2px solid #fff;
+  border: 2px solid #ecf0f1;
   border-radius: 25px;
   opacity: 0.75;
   box-sizing: content-box;
 }
 .scroller {
+  margin-top: 88%;
   width: 3px;
   height: 10px;
   border-radius: 25%;
-  background-color: #fff;
+  background-color: #ecf0f1;
   animation-name: scroll;
   animation-duration: 2.2s;
   animation-timing-function: cubic-bezier(.15,.41,.69,.94);
