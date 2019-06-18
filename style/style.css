@@ -32,12 +32,11 @@ LET ME KNOW IF THIS IS NOT COOL*/
   right: 0;
   bottom: 0;
   left: 0;
-  margin-top: 88%;
+  margin: auto;
   width :34px;
   height: 55px;
 }
 .mousey {
-  margin-top: 88%;
   width: 3px;
   padding: 10px 15px;
   height: 35px;
@@ -47,7 +46,6 @@ LET ME KNOW IF THIS IS NOT COOL*/
   box-sizing: content-box;
 }
 .scroller {
-  margin-top: 88%;
   width: 3px;
   height: 10px;
   border-radius: 25%;
